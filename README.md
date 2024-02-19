@@ -11,8 +11,8 @@ Go studies repo
 
 - ## Section 2: A simple start
   - [x] Go Packages
-  - [ ] Import statements
-  - [ ] File organization
+  - [x] Import statements
+  - [x] File organization
 
 - ## Section 3: Deeper into Go
   - [ ] Variable declarations
