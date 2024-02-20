@@ -15,12 +15,12 @@ Go studies repo
   - [x] File organization
 
 - ## Section 3: Deeper into Go
-  - [ ] Variable declarations
-  - [ ] Functions and Return types
-  - [ ] Slices and For loops
-  - [ ] OO approach vs Go approach
-  - [ ] Custom type declarations
-  - [ ] Receiver functions
+  - [x] Variable declarations
+  - [x] Functions and Return types
+  - [x] Slices and For loops
+  - [x] OO approach vs Go approach
+  - [x] Custom type declarations
+  - [x] Receiver functions
   - [ ] Creating a new Deck
   - [ ] Slice range syntax
   - [ ] Multiple return values
