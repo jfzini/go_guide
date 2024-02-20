@@ -6,6 +6,14 @@ import "fmt"
 
 func main() {
 	// this type of declaration in only valid inside a function
-	card := "Ace of Spades"
-	fmt.Println(card)
+	cards := []string{"Ace of Diamonds", newCard()}
+	cards = append(cards, "Six of Spades")
+	for i, card := range cards {
+		fmt.Println(i, card)
+	}
+	fmt.Println(cards)
+}
+
+func newCard() string {
+	return "Five of Diamonds"
 }
