@@ -21,8 +21,8 @@ Go studies repo
   - [x] OO approach vs Go approach
   - [x] Custom type declarations
   - [x] Receiver functions
-  - [ ] Creating a new Deck
-  - [ ] Slice range syntax
+  - [x] Creating a new Deck
+  - [x] Slice range syntax
   - [ ] Multiple return values
   - [ ] Byte slices
   - [ ] Deck to string
