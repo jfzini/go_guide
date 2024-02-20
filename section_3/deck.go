@@ -17,6 +17,12 @@ func newDeck() deck {
 	return cards
 }
 
+func deal(handSize int, cards deck) []deck {
+	newHand := cards[:handSize]
+	remainingDeck := cards[handSize:]
+	return []deck{newHand, remainingDeck}
+}
+
 func (d deck) print() {
 	for _, card := range d {
 		fmt.Println(card)
