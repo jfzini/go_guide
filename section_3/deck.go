@@ -17,10 +17,10 @@ func newDeck() deck {
 	return cards
 }
 
-func deal(handSize int, cards deck) []deck {
-	newHand := cards[:handSize]
-	remainingDeck := cards[handSize:]
-	return []deck{newHand, remainingDeck}
+func (d deck) deal(handSize int) (deck, deck) {
+	newHand := d[:handSize]
+	remainingDeck := d[handSize:]
+	return newHand, remainingDeck
 }
 
 func (d deck) print() {
