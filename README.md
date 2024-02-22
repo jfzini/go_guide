@@ -28,7 +28,7 @@ Go studies repo
   - [x] Deck to string
   - [x] Joining a slice of strings
   - [x] Saving data to the hard drive
-  - [ ] Reading from the hard drive
+  - [x] Reading from the hard drive
   - [ ] Error handling
   - [ ] Shuffling a deck
   - [ ] Random number generation
