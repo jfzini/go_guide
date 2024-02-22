@@ -23,11 +23,11 @@ Go studies repo
   - [x] Receiver functions
   - [x] Creating a new Deck
   - [x] Slice range syntax
-  - [ ] Multiple return values
-  - [ ] Byte slices
-  - [ ] Deck to string
-  - [ ] Joining a slice of strings
-  - [ ] Saving data to the hard drive
+  - [x] Multiple return values
+  - [x] Byte slices
+  - [x] Deck to string
+  - [x] Joining a slice of strings
+  - [x] Saving data to the hard drive
   - [ ] Reading from the hard drive
   - [ ] Error handling
   - [ ] Shuffling a deck
